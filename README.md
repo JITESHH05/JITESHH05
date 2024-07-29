@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JITESHH05
+- 🌱 I’m currently learning DATA SCIENCE
+- 👨‍💻 All of my projects are available at https://github.com/JITESHH05
+- 📫 How to reach me jiteshpotdar05@hmail.com
